@@ -1,0 +1,24 @@
+{
+  "name": "eslint-plugin-jsio",
+  "version": "0.0.0",
+  "description": "preprocesses jsio imports",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Martin Hunt",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "~1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
